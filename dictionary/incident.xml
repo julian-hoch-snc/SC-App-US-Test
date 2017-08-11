@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,all_tables.query_hints=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="7" text_index="true" type="collection">
+        <element label="Tst-col" max_length="80" name="sn_my_test_app_123_tst_col" type="string"/>
+    </element>
+</database>

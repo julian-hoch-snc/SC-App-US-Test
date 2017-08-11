@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="sn_my_test_app_123_tst_col" label="Tst-col" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_my_test_app_123_tst_col</element>
+            <help/>
+            <hint/>
+            <label>Tst-col</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>Tst-cols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>julian.hoch@snc</sys_created_by>
+            <sys_created_on>2017-08-11 08:59:22</sys_created_on>
+            <sys_id>1d59a109db6007001f4dfd131d961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Tst-col</sys_name>
+            <sys_package display_value="My Test App 123" source="sn_my_test_app_123">e6f8ed85db6007001f4dfd131d961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Test App 123">e6f8ed85db6007001f4dfd131d961958</sys_scope>
+            <sys_update_name>sys_documentation_incident_sn_my_test_app_123_tst_col_en</sys_update_name>
+            <sys_updated_by>julian.hoch@snc</sys_updated_by>
+            <sys_updated_on>2017-08-11 08:59:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
